@@ -61,8 +61,8 @@ My personal environment serves as a sandbox for enterprise-level deployment prac
 ---
 
 ### 📫 Connect with me
-*   **LinkedIn:** [://linkedin.com](https://www.://linkedin.com/)
-*   **GitHub:** [://github.com](https://://github.com)
+*   **LinkedIn:** [linkedin.com/in/luis-sousa-423768139](https://www.linkedin.com/in/luis-sousa-423768139/)
+*   **GitHub:** [github.com/50u5a](https://github.com/50u5a)
 *   **Location:** Lisbon, Portugal 🇵🇹
 *   **Languages:** Portuguese (Native), English (C1 Proficient)
 
