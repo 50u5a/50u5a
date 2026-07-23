@@ -36,7 +36,7 @@ My personal environment serves as a sandbox for enterprise-level deployment prac
       <br>Python
     </td>
     <td align="center" width="100">
-      <img src="https://github.com/user-attachments/assets/4dcd5280-942b-4f5c-989f-bad5dea49bde" width="48" height="48" alt="Nginx" />
+      <img width="148" height="148" alt="nginx" src="https://github.com/user-attachments/assets/fc4dbb3d-4f67-4b5c-81eb-2c7b3bb78c03" />
       <br>Nginx
     </td>
     <td align="center" width="100">
