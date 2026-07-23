@@ -24,27 +24,28 @@ My personal environment serves as a sandbox for enterprise-level deployment prac
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Linux" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="Linux" />
       <br>Linux Admin
     </td>
     <td align="center" width="100">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Docker" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="100">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Python" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="100">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Bash" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="Bash" />
       <br>Bash
     </td>
     <td align="center" width="100">
-      <img src="https://githubusercontent.com" width="48" height="48" alt="Git" />
+      <img src="https://jsdelivr.net" width="48" height="48" alt="Git" />
       <br>Git
     </td>
   </tr>
 </table>
+
 
 *   **Systems & Infrastructure:** Remote Systems Management (SSH), Continuous Monitoring, Logs Analysis & Parsing, Incident Management.
 *   **Industrial Automation & Telecoms:** Industrial Mechatronics (Robotics/Eletromechanics), High-Speed Infrastructures (**FTTH**, **XDSL**), Circuit Dedicated Diagnostics.
