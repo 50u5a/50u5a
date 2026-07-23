@@ -24,27 +24,28 @@ My personal environment serves as a sandbox for enterprise-level deployment prac
 <table>
   <tr>
     <td align="center" width="100">
-      <img src="https://jsdelivr.net" width="48" height="48" alt="Linux" />
+      <img src="https://github.com/user-attachments/assets/4224202f-fd6f-4f75-a24f-36f09e810bb0" width="48" height="48" alt="Linux" />
       <br>Linux Admin
     </td>
     <td align="center" width="100">
-      <img src="https://jsdelivr.net" width="48" height="48" alt="Docker" />
+      <img src="https://github.com/user-attachments/assets/e95c084a-bf4c-4113-aaaf-390359d50813" width="48" height="48" alt="Docker" />
       <br>Docker
     </td>
     <td align="center" width="100">
-      <img src="https://jsdelivr.net" width="48" height="48" alt="Python" />
+      <img src="https://github.com/user-attachments/assets/0731b1c8-b3e3-4fe8-95af-da7d0423738f" width="48" height="48" alt="Python" />
       <br>Python
     </td>
     <td align="center" width="100">
-      <img src="https://jsdelivr.net" width="48" height="48" alt="Bash" />
-      <br>Bash
+      <img src="https://github.com/user-attachments/assets/4dcd5280-942b-4f5c-989f-bad5dea49bde" width="48" height="48" alt="Nginx" />
+      <br>Nginx
     </td>
     <td align="center" width="100">
-      <img src="https://jsdelivr.net" width="48" height="48" alt="Git" />
-      <br>Git
+      <img src="https://github.com/user-attachments/assets/131ace58-b5eb-4b3d-ac59-19fd889a835e" width="48" height="48" alt="Ollama" />
+      <br>Ollama (AI)
     </td>
   </tr>
 </table>
+
 
 
 *   **Systems & Infrastructure:** Remote Systems Management (SSH), Continuous Monitoring, Logs Analysis & Parsing, Incident Management.
